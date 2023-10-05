@@ -1,0 +1,1 @@
+fetch("https://japceibal.github.io/japflix_api/movies-data.json")
