@@ -17,7 +17,6 @@
 
 main {
     min-height: calc(100vh - 100px);
-
   }
 
 .checked{
@@ -28,8 +27,11 @@ main {
     height: fit-content;
 }
 
-ul {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#titulo{
+    color: white;
+    font-weight: bold;
+}
+#subtitulo{
+    color: white;
+    
 }
